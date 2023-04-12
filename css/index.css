@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-03/thumbs/1615816784_23-p-fon-kiberpank-39.jpg);
+}
+
+.logo {
+  text-align: start;
+  border: 4px solid rgb(245, 42, 245);
+  -webkit-text-stroke: 0.04em rgb(187, 228, 255);
+}
+
+.name {
+  padding-top: 130px;
+  padding-left: 60px;
+  position: absolute;
+  font-size: 600%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(245, 42, 245);
+
+  font-weight: lighter;
+  text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.whoAmI {
+  text-align: center;
+  font-size: 300%;
+  color: rgb(245, 42, 245);
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(68, 68, 237),
+    0 0 0.2em rgb(43, 43, 211);
+  text-decoration: overline underline rgb(244, 74, 244);
+  -webkit-text-stroke: 0.04em rgb(187, 228, 255);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.content {
+  color: aliceblue;
+  font-size: x-large;
+}
+
+.postlist {
+  width: 400px;
+  border: 4px solid rgb(245, 42, 245);
+}
+
+.links {
+  width: 200px;
+  font-size: xx-large;
+  color: rgb(233, 93, 243);
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(68, 68, 237),
+    0 0 0.8em rgb(43, 43, 211);
+  margin-left: 200px;
+  border: 4px solid rgb(245, 42, 245);
+}
+
+.post {
+  margin-left: 50px;
+  color: rgb(245, 42, 245);
+  -webkit-text-stroke: 0.04em rgb(187, 228, 255);
+  font-size: larger;
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(68, 68, 237),
+    0 0 0.2em rgb(43, 43, 211);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.textLink {
+  text-align: left;
+  -webkit-text-stroke: 0.04em rgb(187, 228, 255);
+}
+
+.realLinks {
+  text-align: center;
+}
+
+.post2 {
+  color: rgb(245, 42, 245);
+  -webkit-text-stroke: 0.04em rgb(187, 228, 255);
+  font-size: larger;
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(68, 68, 237),
+    0 0 0.2em rgb(43, 43, 211);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: auto;
+}
+
+.footer {
+  font-size: xx-large;
+  color: rgb(245, 42, 245);
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(68, 68, 237),
+    0 0 0.2em rgb(43, 43, 211);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: auto;
+  -webkit-text-stroke: 0.04em rgb(187, 228, 255);
+  text-align: right;
+}
